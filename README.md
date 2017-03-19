@@ -1,6 +1,7 @@
 # hello-world
 My first Repository
-Carlos Rivas - 
+Carlos Rivas
+
 Hasta ahora he creado varios sitios web con Xara (Cavencal)
 Con Wordpress: brideinfashion.com
 Sportcronos.com
